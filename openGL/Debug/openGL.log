@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ivanl\Source\Repos\openGL\openGL\Source.cpp(117,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ivanl\Source\Repos\openGL\openGL\Source.cpp(172,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ivanl\Source\Repos\openGL\openGL\Source.cpp(176,20): warning C4305: '=': truncation from 'double' to 'float'
+  openGL.vcxproj -> C:\Users\ivanl\Source\Repos\openGL\Debug\openGL.exe
